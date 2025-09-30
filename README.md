@@ -3,4 +3,4 @@ A predictive web app that estimates Customer Lifetime Value (CLV) using an XGBoo
 
 Contain:
 1) Dahsbored analysis the customer data
-2) Full model with hugh accurcy
+2) Full model with high accurcy by XGBoost Regression alogrithem 
